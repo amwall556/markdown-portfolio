@@ -1,1 +1,1 @@
-www.apple.com
+([apple](www.apple.com))
